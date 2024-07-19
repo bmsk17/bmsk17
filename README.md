@@ -1,16 +1,12 @@
-## Hi there 👋
+🖐️ Hi there!
+I'm Bernardo Matheus Sarmento Kanekiyo, a passionate Computer Engineering student and tech enthusiast. Currently pursuing my degree at the State University of Amazonas (UEA), I am eager to apply my knowledge and skills in a challenging internship opportunity.
 
-<!--
-**bmsk17/bmsk17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Expertise
+With a solid foundation in computer engineering, I have honed my skills in various programming languages and development tools. My expertise lies in creating efficient and innovative solutions, leveraging my knowledge in both software development and agile methodologies.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Programming Languages:
+Python (Intermediate)
+C/C++ (Intermediate)
+Java (Intermediate)
+SQL (Intermediate)
+Dart (Basic)
