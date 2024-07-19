@@ -1,6 +1,6 @@
 ## 🖐️ Hi there!
 
-I'm Bernardo Matheus Sarmento Kanekiyo, a passionate Computer Engineering student and tech enthusiast. Currently pursuing my degree at the State University of Amazonas (UEA), I am eager to apply my knowledge and skills in a challenging internship opportunity.
+I'm Bernardo Matheus Sarmento Kanekiyo, a passionate Computer Engineering student and tech enthusiast. Currently pursuing my degree at the State University of Amazonas (UEA).
 
 ## 🚀 Expertise
 
