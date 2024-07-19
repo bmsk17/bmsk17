@@ -20,11 +20,6 @@ With a solid foundation in computer engineering, I have honed my skills in vario
 - **Bachelor's in Computer Engineering**  
   State University of Amazonas (UEA)  
 
-## 🌐 Additional Information
-
-- **Languages:** Intermediate English
-- **Projects:** Academic and personal projects using the aforementioned languages and tools.
-
 ### 🌐 Connect with Me
 
 - **Email:** bmsk.eng17@uea.edu.br | cbkanekiyo@gmail.com
