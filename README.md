@@ -14,12 +14,6 @@ With a solid foundation in computer engineering, I have honed my skills in vario
   - Java (Intermediate)
   - SQL (Intermediate)
   - Dart (Basic)
-- **Databases:** 
-  - SQL (Intermediate)
-- **Development Tools:** 
-  - GitHub
-- **Methodologies:** 
-  - Agile (Scrum)
 
 ## 📚 Education
 
