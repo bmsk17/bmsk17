@@ -4,18 +4,18 @@ I'm Bernardo Matheus Sarmento Kanekiyo, a passionate Computer Engineering studen
 
 ## 🚀 Expertise
 
-With a solid foundation in computer engineering, I have honed my skills in various programming languages and development tools. My expertise lies in creating efficient and innovative solutions, leveraging my knowledge in both software development and agile methodologies.
+I have always sought to expand my knowledge in the technology area. My focus is creating software solutions using modern development practices and technologies.
+During my academic career, I built a solid foundation in several programming languages ​​and tools. I have participated in many projects, both college and personal, that have given me practical experience and helped improve my software development skills.
 
 ### 🛠️ Tech Stack
 
 - **Programming Languages:** 
-  - ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  **(Intermediate)**
-  - ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ###(Intermediate)
-  - ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white) ###(Intermediate)
-  - ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ###(Intermediate)
-  - ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ###(Basic)
-
-
+  - Python (Intermediate)
+  - C/C++ (Intermediate)
+  - Java (Intermediate)
+  - SQL (Intermediate)
+  - Dart (Basic)
+    
 ## 📚 Education
 
 - **Bachelor's in Computer Engineering**  
