@@ -12,6 +12,8 @@ During my academic career, I built a solid foundation in several programming lan
 - **Programming Languages:** 
   - Python (Intermediate)
   - C/C++ (Intermediate)
+  - React (Intermediate)
+  - JavaScript (Intermediate)
   - Java (Intermediate)
   - SQL (Intermediate)
   - Dart (Basic)
