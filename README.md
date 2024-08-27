@@ -23,5 +23,5 @@ During my academic career, I built a solid foundation in several programming lan
 
 ### 🌐 Connect with Me
 
-- **Email:** bmsk.eng17@uea.edu.br | cbkanekiyo@gmail.com
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/bernardo-kanekiyo-8061a5157/)
+- **Email:** cbkanekiyo@gmail.com
+- **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/bernardo-kanekiyo-8061a5157/)
