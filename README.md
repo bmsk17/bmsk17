@@ -16,7 +16,7 @@ During my academic career, I built a solid foundation in several programming lan
   - JavaScript (Intermediate)
   - Java (Intermediate)
   - SQL (Intermediate)
-  - Dart (Basic)
+  - Dart (Intermediate)
     
 ## 📚 Education
 
